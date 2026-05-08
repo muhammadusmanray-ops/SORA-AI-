@@ -1,0 +1,6 @@
+{
+  "name": "LlamaGraph: Knowledge Agent",
+  "description": "A high-stakes self-compiling knowledge agent with Graph-RAG capabilities, entity extraction, and optimized context compilation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Artificial Intelligence", "Data Visualization"]
+}
